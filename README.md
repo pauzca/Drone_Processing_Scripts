@@ -34,7 +34,7 @@ drone_scripts/
 You will find detailed readmes in each folder. 
 
 
-## Advice while processing drone images
+## Advice for processing drone images
 
 Here I will list some lessons I learned about processing drone images during my internship:
 
